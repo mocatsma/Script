@@ -1,0 +1,225 @@
+Exe_Asc_Pro completed
+Current Ship logged: SatNet1-Mun: CircTransfer -75000
+dV - Circ Node #1: 332.049695138732 + 293.506486594859
+//
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Download in Boot: Lib_Pid.KS
+Download in Boot: Maneuver.KS
+Download in Boot: Orbit.KS
+Download in Boot: Telemetry.KS
+Download in Boot: AscentSat1Net.KS
+Download in Boot: Autopilot.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Download in Boot: KerbinSat1Net.Transfer.KS
+Prior to ...Launch: boot Step: 0
+Prior to ...Launch: Lib_Pid.KS Step: 1
+Prior to ...Launch: update.ks Step: 2
+Prior to ...Launch: Maneuver.KS Step: 3
+Prior to ...Launch: Orbit.KS Step: 4
+Prior to ...Launch: Telemetry.KS Step: 5
+Prior to ...Launch: AscentSat1Net.KS Step: 6
+Prior to ...Launch: Autopilot.KS Step: 7
+Prior to ...Launch: KerbinSat1Net.Launch.KS Step: 8
+Prior to ...Launch: KerbinSat1Net.Transfer.KS Step: 9
+...Launch
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Download in Boot: Lib_Pid.KS
+Download in Boot: Maneuver.KS
+Download in Boot: Orbit.KS
+Download in Boot: Telemetry.KS
+Download in Boot: AscentSat1Net.KS
+Download in Boot: Autopilot.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Download in Boot: KerbinSat1Net.Transfer.KS
+Prior to ...Launch: boot Step: 0
+Prior to ...Launch: Lib_Pid.KS Step: 1
+Prior to ...Launch: Maneuver.KS Step: 2
+Prior to ...Launch: Orbit.KS Step: 3
+Prior to ...Launch: Telemetry.KS Step: 4
+Prior to ...Launch: AscentSat1Net.KS Step: 5
+Prior to ...Launch: Autopilot.KS Step: 6
+Prior to ...Launch: KerbinSat1Net.Launch.KS Step: 7
+Prior to ...Launch: KerbinSat1Net.Transfer.KS Step: 8
+Prior to ...Launch: update.ks Step: 9
+...Launch
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Download in Boot: Lib_Pid.KS
+Download in Boot: Maneuver.KS
+Download in Boot: Orbit.KS
+Download in Boot: Telemetry.KS
+Download in Boot: AscentSat1Net.KS
+Download in Boot: Autopilot.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Download in Boot: KerbinSat1Net.Transfer.KS
+Prior to ...Launch: boot Step: 0
+Prior to ...Launch: Lib_Pid.KS Step: 1
+Prior to ...Launch: update.ks Step: 2
+Prior to ...Launch: Maneuver.KS Step: 3
+Prior to ...Launch: Orbit.KS Step: 4
+Prior to ...Launch: Telemetry.KS Step: 5
+Prior to ...Launch: AscentSat1Net.KS Step: 6
+Prior to ...Launch: Autopilot.KS Step: 7
+Prior to ...Launch: KerbinSat1Net.Launch.KS Step: 8
+Prior to ...Launch: KerbinSat1Net.Transfer.KS Step: 9
+...Launch
+Profile Length: 48
+Ascent Step Altitude :97.4674055729993
+Ascent Step Altitude :250.414885522448
+Ascent Step Altitude :1500.57887374982
+Ascent Step Altitude :2502.97432461579
+Ascent Step Altitude :3503.41188760707
+Ascent Step Altitude :5002.11798597849
+Ascent Step Altitude :7502.8530883271
+Ascent Step Altitude :11004.0882341309
+Ascent Step Altitude :15001.9130164307
+Ascent Step Altitude :20000.3810443651
+Ascent Step Altitude :27503.129019717
+Ascent Step Altitude :35007.2014369854
+Ascent Step Altitude :40000.6498886034
+Ascent Step Altitude :44001.2001886253
+Ascent Step Altitude :48009.2302675594
+Ascent Step Altitude :52002.5951360306
+Ascent_Step completed : Step: 48
+Exe_Asc_Pro completed
+Current Ship logged: SatNet1-Mun: CircTransfer -75000
+ETA & MNV_Time: 75.9714787948107 & 35.5063559728719
+dV - Circ Node #1: 388.331117641941 + 337.116698304132
+MNV_Exec_Node -- BurnVector : V(-342.008756748189, -6.93973397722225, -639.731474100725)
+Time :2741710.99177015
+MNV_Exec_Node -- startTime :2741737.70399423ETA: 58.1870899754576MNV_TIME 31.4727954892302
+...Launch PERIAPSIS > 65k - boot Step: 0
+...Launch PERIAPSIS > 65k - Lib_Pid.KS Step: 1
+...Launch PERIAPSIS > 65k - update.ks Step: 2
+...Launch PERIAPSIS > 65k - Maneuver.KS Step: 3
+...Launch PERIAPSIS > 65k - Orbit.KS Step: 4
+...Launch PERIAPSIS > 65k - Telemetry.KS Step: 5
+...Launch PERIAPSIS > 65k - AscentSat1Net.KS Step: 6
+...Launch PERIAPSIS > 65k - Autopilot.KS Step: 7
+...Launch PERIAPSIS > 65k - KerbinSat1Net.Launch.KS Step: 8
+...Launch PERIAPSIS > 65k - KerbinSat1Net.Transfer.KS Step: 9
+...Transfer
+Current Ship logged: SatNet1-Mun: Transfer Inflight -11200000
+Checktostage: Transfer Inflight -11200000
+CheckToStage
+Not Staged
+Not Staged
+230.652500083321
+228.685508011254
+226.732237428915
+224.789030017955
+222.856061254464
+220.933491355718
+219.02145765082
+217.12008983947
+215.22915141045
+213.349412932603
+211.480609284468
+209.622797686496
+207.776020100373
+205.940637014982
+204.115992302393
+202.302084055252
+200.499564586804
+198.7080753155
+196.927574279669
+195.158009980892
+193.399321384026
+191.651768842153
+189.914267073901
+188.187728268746
+186.472049429875
+184.766454027971
+183.070824999511
+181.385706534893
+179.710633419881
+178.045802051771
+176.390066412059
+174.744284181855
+173.107959152341
+171.480935785273
+169.863386218864
+168.254475034405
+166.654029616861
+165.062544923194
+163.479844523654
+161.904743954736
+160.338066237387
+158.779288758074
+157.228226503982
+155.684690647588
+154.148490454042
+152.619435188476
+151.097330301327
+149.581981243028
+148.073195371382
+146.570774322124
+145.074523545692
+143.584246585172
+142.100076954981
+140.62115253353
+139.147274956562
+137.678909617135
+136.215861965704
+134.756930372623
+133.302915924317
+131.853292192556
+130.4078569984
+128.966415792282
+127.528766395245
+126.095046136385
+124.664389079436
+123.236600674831
+121.812146315636
+120.390503388319
+118.971465899241
+117.555178806892
+116.140772360295
+114.728391517939
+113.317498407523
+111.908573680897
+110.501411344407
+109.094825027197
+107.689615815707
+106.285253467011
+104.881547246243
+103.478298789141
+102.075317360854
+100.672404597119
+99.269369763063
+97.8660068650497
+96.4621404269975
+95.0575568258594
+93.6520729561591
+92.2454828242593
+90.8376033246836
+89.4285641571392
+88.017175136072
+86.6045654118868
+85.1895524284245
+83.7719225626379
+82.3524997891291
+80.9300710341823
+79.5047736268918
+78.0760887684295
+76.6444742224598
+75.2094111901692
+73.7710217418631
+72.3281156919945
+70.8818221909467
+69.430615359828
+67.9752962850571
+66.515666602376
+65.0508565608009
+63.5806677960884
+62.1059090240518
+60.6253748003551
+59.138866760733
+57.6468579276612
+56.1488142435153

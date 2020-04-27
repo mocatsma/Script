@@ -1,0 +1,137 @@
+//
+Inflight - Boot: Orbiter-1.update.ks
+Download in Boot: Orbiter-1.update.ks
+Archive Exists: Orbiter-1.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: Ascent.KS
+Archive Exists: Ascent.KS
+Download in Boot: Kerbin.Launch.KS
+Archive Exists: Kerbin.Launch.KS
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: Ascent.KS
+Prior to ...Launch: Kerbin.Launch.KS
+Prior to ...Launch: Kerbin.Transfer.KS
+Prior to ...Launch: boot
+Prior to ...Launch: update.ks
+Profile Length: 48
+
+Apoapsis ETA / Periapsis / ALT:
+3.98856086398746 / 79259.2512662248 / 85308.7008551104
+Periapsis > 20000
+Download in Boot: Kerbin.Transfer.KS
+Archive Exists: Kerbin.Transfer.KS
+Prior to ...Transfer: boot
+Prior to ...Transfer: Maneuver.KS
+Prior to ...Transfer: update.ks
+Prior to ...Transfer: Orbit.KS
+Prior to ...Transfer: Ascent.KS
+Prior to ...Transfer: Kerbin.Launch.KS
+Prior to ...Transfer: Kerbin.Transfer.KS
+Current Ship logged: Orbiter-1: Transfer Inflight -120000
+Checktostage: Transfer Inflight -120000
+Transfer.ks - initial Ship LNG 306.638530731201
+LIST of 24 items:
+[0] = VESSEL 'StartNet-RCS'
+  ["guid"] = "d3738e8b-69d9-4fb3-9abc-47396102bc4c"
+[1] = VESSEL 'StartNet-RCS'
+  ["guid"] = "0dd9b601-d996-4b72-8487-17764145e09e"
+[2] = VESSEL 'StartNet-1'
+  ["guid"] = "fca31d77-5dec-49d9-b9fd-89c4c176d99d"
+[3] = VESSEL 'Ast. IBA-144'
+  ["guid"] = "536c49c2-bf17-4866-8c27-410f47dac955"
+[4] = VESSEL 'Ast. PWF-579'
+  ["guid"] = "c9071b82-5387-41bb-a00e-66fca652575c"
+[5] = VESSEL 'SatNet1-Mun'
+  ["guid"] = "9fc25af2-e686-49b2-8558-e136a08f2896"
+[6] = VESSEL 'SatNet1-3hr'
+  ["guid"] = "a5a1cbcf-b425-4cb3-a368-a1d557baf464"
+[7] = VESSEL 'SatNet1-MunLead'
+  ["guid"] = "b718fdb1-c003-4bfc-addf-a14e5665f624"
+[8] = VESSEL 'SatNet1-Kerbol1'
+  ["guid"] = "f425ce05-37cd-43e4-bd35-39d9ae1f2f19"
+[9] = VESSEL 'SatNet1-Mun'
+  ["guid"] = "809f9aea-beb0-4267-9cbb-9bb56202b598"
+[10] = VESSEL 'Ast. SEK-663'
+  ["guid"] = "158cbdea-eb5e-459e-8c70-5094763554a3"
+[11] = VESSEL 'SatNet1-Mun326'
+  ["guid"] = "f8752fc3-8b06-4644-a544-821c3b83711a"
+[12] = VESSEL 'Ast. DRP-191'
+  ["guid"] = "9d44b669-d09e-4042-abc1-e77530691dc6"
+[13] = VESSEL 'Ast. QYD-196'
+  ["guid"] = "1f3df52b-ff9c-40de-9cde-ad91e4134ff0"
+[14] = VESSEL 'SatNet1-Geo1'
+  ["guid"] = "75f04161-85b5-48b6-9d74-5c05f4dda5ae"
+[15] = VESSEL 'SatNet1-Geo2'
+  ["guid"] = "30666a8c-ce90-4c6b-ba63-23ab852df97c"
+[16] = VESSEL 'Ast. DVB-453'
+  ["guid"] = "c9f628d1-e930-4744-85a8-32fe7ec250d7"
+[17] = VESSEL 'Ast. FVA-111'
+  ["guid"] = "0f4eca24-50bc-4643-9151-c9b1feb44106"
+[18] = VESSEL 'SatNet1-Mun'
+  ["guid"] = "cb8f3046-51f9-4692-8448-5043051d05bd"
+[19] = VESSEL 'SatNet1-Mun Debris'
+  ["guid"] = "27eefd71-a4bc-4111-b415-9f9475dfb680"
+[20] = VESSEL 'SatNet1-Mun'
+  ["guid"] = "dfceb44c-c0e1-42a1-b2c2-201989053920"
+[21] = VESSEL 'SatNet1-Duna1'
+  ["guid"] = "7538531a-95ee-4e70-a4c2-fdc6a53904c9"
+[22] = VESSEL 'Orbiter-1-Comm1'
+  ["guid"] = "73ca273d-1973-4fb9-b2e8-d5ee13408247"
+[23] = VESSEL 'Orbiter-1'
+  ["guid"] = "f57576c6-6bae-41df-9b64-cd8dbc53e9c3"
+VESSEL("Orbiter-1")
+Until Ship LNG < T_ANGLE 306.648948669434 = 5
+Until Ship LNG < T_ANGLE 308.388263702393 = 5
+Until Ship LNG < T_ANGLE 310.127552032471 = 5
+Until Ship LNG < T_ANGLE 311.859344482422 = 5
+Until Ship LNG < T_ANGLE 313.58882522583 = 5
+Until Ship LNG < T_ANGLE 315.332473754883 = 5
+Until Ship LNG < T_ANGLE 317.071292877197 = 5
+Until Ship LNG < T_ANGLE 318.852802276611 = 5
+Until Ship LNG < T_ANGLE 320.593662261963 = 5
+Until Ship LNG < T_ANGLE 322.504356384277 = 5
+Until Ship LNG < T_ANGLE 324.277202606201 = 5
+Until Ship LNG < T_ANGLE 326.17467880249 = 5
+Until Ship LNG < T_ANGLE 328.196704864502 = 5
+Until Ship LNG < T_ANGLE 329.930633544922 = 5
+Until Ship LNG < T_ANGLE 331.664266586304 = 5
+Until Ship LNG < T_ANGLE 333.397584915161 = 5
+Until Ship LNG < T_ANGLE 335.130571365356 = 5
+Until Ship LNG < T_ANGLE 336.863204956055 = 5
+Until Ship LNG < T_ANGLE 338.595470428467 = 5
+Until Ship LNG < T_ANGLE 340.327346801758 = 5
+Until Ship LNG < T_ANGLE 342.05881690979 = 5
+Until Ship LNG < T_ANGLE 343.789865493774 = 5
+Until Ship LNG < T_ANGLE 345.520474433899 = 5
+Until Ship LNG < T_ANGLE 347.250628471375 = 5
+Until Ship LNG < T_ANGLE 348.980311393738 = 5
+Until Ship LNG < T_ANGLE 350.709508895874 = 5
+Until Ship LNG < T_ANGLE 352.438206195831 = 5
+Until Ship LNG < T_ANGLE 354.166389465332 = 5
+Until Ship LNG < T_ANGLE 355.894045829773 = 5
+Until Ship LNG < T_ANGLE 357.621161937714 = 5
+Until Ship LNG < T_ANGLE 359.347726047039 = 5
+Current Ship logged: Orbiter-1: Transfer -120000
+Burn Times 1 & 2 2.28789123334631 & 2.26289912485628
+dV - Node #1: 24.8247574618338
+Pre Node#1 dV - Node #2: 24.5525173997463
+#1 Apoapsis / ETA: 92561.643589122 / 2937645.76056594630.244598249801
+Periapsis: 85306.6603240762
+MNV_Exec_Node -- BurnVector : V(6.166638937519, -0.11948453131642, 24.0463486965532)
+Time :2937647.76056594
+MNV_Exec_Node -- startTime :2938273.71727294 ETA: 627.100652633235 MNV_TIME 1.14394563048114
+1
+After Burn #1 Apoapsis / ETA: 116193.19959723 / 2938281.73545413981.544905741064
+After Burn #1 Periapsis: 92558.3980670287
+After Burn #1 Burn Time #2 2.28789123334631 & 1.11596006805034
+dV - Node #2: 12.1803182613309
+MNV_Exec_Node -- BurnVector : V(-5.17436991549414, 0.0587251276373859, -11.0264601263686)
+Time :2938281.79545413
+MNV_Exec_Node -- startTime :2939262.16439908 ETA: 980.926925404929 MNV_TIME 0.557980451874814
+1
+#2 Apoapsis / ETA: 116200.372953147 / 2939267.569081761985.4549735729
+Periapsis: 107828.035349532

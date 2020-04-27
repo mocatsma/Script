@@ -1,0 +1,261 @@
+//
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Current Ship logged: SatNet1-Mun: Transfer Inflight -11200000
+Checktostage: Transfer Inflight -11200000
+CheckToStage
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+Not Staged
+...Inflight--update.ks - boot Step: 0
+...Inflight--update.ks - Maneuver.KS Step: 1
+...Inflight--update.ks - update.ks Step: 2
+...Inflight--update.ks - Orbit.KS Step: 3
+346.780966202791
+346.638116705092
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.522700333153
+Ascent Step Altitude :250.072532148217
+Ascent Step Altitude :1500.0018554026
+Ascent Step Altitude :2501.09982834884
+Ascent Step Altitude :3500.92754644074
+Ascent Step Altitude :5001.4734123894
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.514466584777
+Ascent Step Altitude :250.256818541209
+Ascent Step Altitude :1500.77497269923
+Ascent Step Altitude :2502.33143470099
+Ascent Step Altitude :3500.21274861356
+Ascent Step Altitude :5001.72235883144
+Ascent Step Altitude :7504.08265408606
+Ascent Step Altitude :11004.2289101725
+Ascent Step Altitude :15003.9660469418
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.204447826021
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.306061890326
+Ascent Step Altitude :250.297340227873
+Ascent Step Altitude :1501.17323588603
+Ascent Step Altitude :2501.26442517969
+Ascent Step Altitude :3501.49498649582
+Ascent Step Altitude :5000.87654826709
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.306107756449
+Ascent Step Altitude :250.244637722149
+Ascent Step Altitude :1501.33737695985
+Ascent Step Altitude :2501.58660051122
+Ascent Step Altitude :3501.53486322029
+Ascent Step Altitude :5002.30339400598
+Ascent Step Altitude :7500.16843023745
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.294433327974
+Ascent Step Altitude :250.014051705715
+Ascent Step Altitude :1500.12841159396
+Ascent Step Altitude :2500.52899588086
+Ascent Step Altitude :3502.26552569738
+Ascent Step Altitude :5029.58001397888
+Ascent Step Altitude :7500.21096957882
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.329020132194
+Ascent Step Altitude :250.254368344438
+Ascent Step Altitude :1501.30802847736
+Ascent Step Altitude :2500.58496868366
+Ascent Step Altitude :3502.91790924803
+Ascent Step Altitude :5001.56404960784
+Ascent Step Altitude :7500.5784767915
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :111.394684385858
+Ascent Step Altitude :250.279007088277
+Ascent Step Altitude :1501.68198980461
+Ascent Step Altitude :2501.39212930249
+Ascent Step Altitude :3501.78407522594
+Ascent Step Altitude :5002.05343433504
+Not Inflight
+Download in Boot: SatNet1-Mun.update.ks
+Archive Exists: SatNet1-Mun.update.ks
+SatNet1-Mun.update.ks
+Download in Boot: Maneuver.KS
+Archive Exists: Maneuver.KS
+Download in Boot: Orbit.KS
+Archive Exists: Orbit.KS
+Download in Boot: AscentSat1Net.KS
+Archive Exists: AscentSat1Net.KS
+Download in Boot: KerbinSat1Net.Launch.KS
+Archive Exists: KerbinSat1Net.Launch.KS
+Prior to ...Launch: boot
+Prior to ...Launch: Maneuver.KS
+Prior to ...Launch: update.ks
+Prior to ...Launch: Orbit.KS
+Prior to ...Launch: AscentSat1Net.KS
+Prior to ...Launch: KerbinSat1Net.Launch.KS
+Profile Length: 48
+Ascent Step Altitude :109.715467921109
