@@ -18,7 +18,7 @@
     local starttime is time:seconds + n:eta - mnv_time(v:mag)/2.
     lock steering to n:burnvector.
 
-    if autowarp { warpto(starttime - 30). }
+    if autowarp { kuniverse:timewarp:warpto(starttime - 60). }
 
     wait until time:seconds >= starttime.
     lock throttle to min(mnv_time(n:burnvector:mag), 1).
@@ -29,7 +29,8 @@
       if ship:maxthrust < 0.1 { break. }
     }
     lock throttle to 0.
-    unlock steering.
+    //unlock steering.
+    lock steering to prograde.
     remove nextnode.
     wait 0.01.
   }
@@ -54,7 +55,7 @@
 
     set isp to isp / engine_count.
     set thrust to thrust * 1000.
-    log ( "Fx mnv_time: " + g * m * isp * (1 - e^(-dV/(g*isp))) / thrust ) to logfile.
+    //log ( "Fx mnv_time: " + g * m * isp * (1 - e^(-dV/(g*isp))) / thrust ) to logfile.
     return g * m * isp * (1 - e^(-dV/(g*isp))) / thrust.
   }
 }

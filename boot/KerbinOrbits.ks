@@ -8,15 +8,14 @@
   for dependency in list(
     "mission_runner.v0.1.0.ks",
     "hillclimb.v0.1.0.ks",
-    "transfer.v0.2.2.ks",
     "maneuver.v0.1.0.ks",
-    "NetSat2Mission1.ks"
+    "KerbinOrbit1.ks"
   )
     {
     if not exists("1:/" + dependency) copypath("0:/" + dependency, "1:/").
     runpath("1:/" + dependency).
   }
-  global logfile is "0:/FlightLog.txt".
-  log("Boot file NetSat2 5-2-20") to logfile.
-  run_mission(NetSat2Mission1["sequence"], NetSat2Mission1["events"]).
+  global logfile is "0:/KerbinOrbitLog.txt".
+  log("Boot file KerbinOrbit 5-4-20") to logfile.
+  run_mission(KerbinOrbit1["sequence"], KerbinOrbit1["events"]).
 }
